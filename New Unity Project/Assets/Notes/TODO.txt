@@ -1,0 +1,1 @@
+Make right clicking a perk change it's button's color aswell. Currently only left click does it.
